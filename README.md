@@ -1,1 +1,1 @@
-# Supervised-ML-regression-Bike-sharing-demand-prediction-capstone-project-II
+# Supervised-ML-regression-Bike-sharing-demand-prediction
